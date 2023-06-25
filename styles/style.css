@@ -1,0 +1,61 @@
+/* Add some basic styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.alphabet-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.alphabet-link {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: #eee;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.cocktail-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cocktail-card {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.cocktail-card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.cocktail-card h3 {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+.favorites-link {
+    display: block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #2a15e4;
+}

@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
-
 <h3 align="center">Alcohols</h3>
 
 <div align="center">
@@ -18,8 +13,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
+<p align="center"> This is Webpage Which Lets you explore cocktails and add your Favorites List.<br> 
 </p>
 
 ## 📝 Table of Contents
@@ -68,12 +62,6 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## 🔧 Running the tests `<a name = "tests"></a>`
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
 Explain what these tests test and why
 
 ```
@@ -88,10 +76,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-## 🎈 Usage `<a name="usage"></a>`
-
-Add notes about how to use the system.
-
 ## 🚀 Deployment `<a name = "deployment"></a>`
 
 Add additional notes about how to deploy this on a live system.
@@ -105,11 +89,10 @@ Add additional notes about how to deploy this on a live system.
 
 ## ✍️ Authors `<a name = "authors"></a>`
 
-- [@Ani](https://github.com/T0rnik3)
+- [@Ani](https://github.com/anniemmagh)
 - [@Tako](https://github.com/T0rnik3)
-- [@Iovane](https://github.com/T0rnik3)
+- [@Iovane](https://github.com/Iovane)
 - [@T0rnik3](https://github.com/T0rnik3)
-
 
 ## 🎉 Acknowledgements `<a name = "acknowledgement"></a>`
 

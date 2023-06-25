@@ -1,0 +1,28 @@
+/* Add some basic styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.contact-card {
+    width: 300px;
+    margin: 10px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.contact-card h2 {
+    margin-top: 0;
+    color: #555;
+}
+
+.contact-card p {
+    margin-bottom: 10px;
+}

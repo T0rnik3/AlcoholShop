@@ -1,0 +1,72 @@
+/* Add some basic styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.cocktail-details {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.cocktail-details img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.cocktail-details h2 {
+    color: #555;
+}
+
+.cocktail-details p {
+    color: #777;
+    line-height: 1.5;
+}
+
+.suggested-cocktails {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.suggested-cocktail-card {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.suggested-cocktail-card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.suggested-cocktail-card h3 {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+.favorite-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ff9800;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.favorite-button:hover {
+    background-color: #f57c00;
+}
