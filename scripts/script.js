@@ -49,3 +49,5 @@ alphabetLinks.forEach(link => {
         fetchCocktails(selectedLetter);
     });
 });
+
+fetchCocktails();

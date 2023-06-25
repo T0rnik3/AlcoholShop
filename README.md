@@ -1,4 +1,4 @@
-<h3 align="center">Alcohols</h3>
+<h3 align="center">Cocktails</h3>
 
 <div align="center">
 
@@ -19,82 +19,33 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
 - [Deployment](#deployment)
-- [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About `<a name = "about"></a>`
+## 🧐 About
 
 Write about 1-2 paragraphs describing the purpose of your project.
 
-## 🏁 Getting Started `<a name = "getting_started"></a>`
+## 🚀 Deployment
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Using Netlify.com We Deployed this webpage from our Github Repositories.
 
-### Prerequisites
+## ⛏️ Built Using
 
-What things you need to install the software and how to install them.
+- Vanilla JavaScript ES6
+- CSS3
+- HTML5
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🚀 Deployment `<a name = "deployment"></a>`
-
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using `<a name = "built_using"></a>`
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors `<a name = "authors"></a>`
+## ✍️ Authors
 
 - [@Ani](https://github.com/anniemmagh)
 - [@Tako](https://github.com/T0rnik3)
 - [@Iovane](https://github.com/Iovane)
 - [@T0rnik3](https://github.com/T0rnik3)
 
-## 🎉 Acknowledgements `<a name = "acknowledgement"></a>`
+## 🎉 Acknowledgements
 
 - [@G-Apxo](https://github.com/G-Apxo)
 - Hat tip to anyone whose code was used
