@@ -41,13 +41,12 @@ Using Netlify.com We Deployed this webpage from our Github Repositories.
 ## ✍️ Authors
 
 - [@Ani](https://github.com/anniemmagh)
-- [@Tako](https://github.com/T0rnik3)
+- [@Tako](https://github.com/tako-bochorishvili)
 - [@Iovane](https://github.com/Iovane)
 - [@T0rnik3](https://github.com/T0rnik3)
 
 ## 🎉 Acknowledgements
 
 - [@G-Apxo](https://github.com/G-Apxo)
-- Hat tip to anyone whose code was used
 - Inspiration
 - References
