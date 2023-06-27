@@ -3,12 +3,59 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 20px;
+    background-color: #FBDCE2;
 }
 
 h1 {
     color: #333;
+    
 }
-
+.home a{
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: #e77bd6;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+.home a:hover{
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: #e77bd6;
+    background-color: #ebd0e7;
+    transition: .3s ease;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #de37ba;
+    font-weight: bold;
+}
+.favourites a{
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: #e77bd6;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: #333;
+    font-weight: bold;
+}
+.favourites a:hover{
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: #e77bd6;
+    background-color: #ebd0e7;
+    transition: .3s ease;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #de37ba;
+    font-weight: bold;
+}
 .cocktail-details {
     max-width: 500px;
     margin: 0 auto;
