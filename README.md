@@ -11,6 +11,8 @@
 
 </div>
 
+![frontpage](./images/README/frontpage.png)
+
 ---
 
 <p align="center"> This is Webpage Which Lets you explore cocktails and add your Favorites List.<br> 
@@ -18,15 +20,16 @@
 
 ## 📝 Table of Contents
 
-- [About](#about)
-- [Deployment](#deployment)
-- [Built Using](#built_using)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [📝 Table of Contents](#-table-of-contents)
+- [🧐 About](#-about)
+- [🚀 Deployment](#-deployment)
+- [⛏️ Built Using](#️-built-using)
+- [✍️ Authors](#️-authors)
+- [🎉 Acknowledgements](#-acknowledgements)
 
 ## 🧐 About
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This is a Cocktails Website. Here You can find your favorite cocktails and discover how this cocktail is made.
 
 ## 🚀 Deployment
 
@@ -50,3 +53,4 @@ Using Netlify.com We Deployed this webpage from our Github Repositories.
 - [@G-Apxo](https://github.com/G-Apxo)
 - Inspiration
 - References
+  - https://www.thecocktaildb.com/api.php
